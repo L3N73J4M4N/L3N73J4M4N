@@ -24,7 +24,7 @@ Hola! Soy Matías Carvajal Pérez, estudiante de Ingenieria Civil Eléctrica y e
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=l3n73j4m4n&show_icons=true&locale=es&theme=dracula)
 
-## ¿Qué uso?
+## ¿Qué uso? 👁️
 
 <p align="center">
   <a href="https://www.python.org" target="_blank">
